@@ -10,7 +10,7 @@
 	<action name="LoginAction" class="com.diworksdev.login.action.LoginAction" method="execute">
 
 		<result name="success">loginSuccess.jsp</result>
-		<result name="error">loginError</result>
+		<result name="error">loginError.jsp</result>
 	</action>
 	</package>
 </struts>
